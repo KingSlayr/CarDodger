@@ -39,7 +39,7 @@ body{
 .gameArea{
     width: 40vw;
     height:75vh;
-    background-color: rgb(146, 66, 66);
+    background-color: rgb(19, 17, 17);;
     overflow: hidden;
     position: relative;
     margin: auto;
