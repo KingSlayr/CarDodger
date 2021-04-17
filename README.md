@@ -5,4 +5,4 @@ Only for PC
 
 Demo - 
 
-![Alt text](/car.png?raw=true "Optional Title")
+![Alt text](/demo.JPG?raw=true "Optional Title")
